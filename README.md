@@ -29,6 +29,7 @@ A modern and responsive clinic website developed to simplify patient appointment
 | PHP | Backend Development |
 | MySQL | Database Management |
 | Bootstrap | Responsive Design |
+| laravel | freamework |
 
 ---
 
