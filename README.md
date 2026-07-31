@@ -31,18 +31,12 @@ A modern and responsive clinic website developed to simplify patient appointment
 | Bootstrap | Responsive Design |
 | laravel | freamework |
 
+https://github.com/user-attachments/assets/e0581916-894d-4e30-85b0-90bee348c3f4
 ---
 
-## 📸 Project Screenshots
 
-### 🏠 Home Page
-Add screenshot here
 
-### 📅 Appointment Booking
-Add screenshot here
 
-### 👨‍⚕️ Doctor Section
-Add screenshot here
 
-### 📞 Contact Page
-Add screenshot here
+
+
